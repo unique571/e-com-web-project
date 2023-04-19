@@ -7,6 +7,10 @@
     align-items: center;
     background-color: #fafafa;
 }
+.win{
+    text-decoration: none;
+    color: #b9b9b9;
+}
 .form-container{
     width: 60%;
     min-width: 300px;
